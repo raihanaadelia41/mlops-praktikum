@@ -1,0 +1,9 @@
+.venv/
+data_raw/
+mlflow.db
+mlflow_server.log
+mlartifacts/
+data/*.npz
+data/FashionMNIST/
+__pycache__/
+.ipynb_checkpoints/
